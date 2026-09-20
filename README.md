@@ -8,6 +8,8 @@ I build projects that combine engineering judgment with Python, statistics, and 
 
 **Semiconductor Process Variation and Yield Analysis**
 
+**[Live App](https://emeka-obinali-secom.streamlit.app/)** — Explore the validated project results interactively. The [GitHub repository](https://github.com/emekaobinali/semiconductor-process-variation-yield-analysis) remains the technical source of truth.
+
 Analyzed SECOM manufacturing data using leakage-controlled preprocessing, five-fold validation, Random Forest screening, threshold tradeoffs, and conservative feature interpretation.
 
 Final reserved-test performance:
